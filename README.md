@@ -5,7 +5,7 @@ This project focuses on the exploratory data analysis (EDA) of FIFA players' dat
 
 ## Dataset
 - Source: FIFA player dataset
-- Includes features like Age, Potential, Wages, Position, and Contract details
+- Includes features like Age, Potential, Wages, Skill Moves and Contract details
 - Preprocessing steps: missing value treatment, label encoding, feature scaling
 
 ## Key Steps
